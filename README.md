@@ -2,7 +2,7 @@
 
 ## Requirement
 * go version go1.14 darwin/amd64
-* `go get github.com/gocolly/colly`
+* `go get github.com/gocolly/colly/v2...`
 
 ## How to run
 
